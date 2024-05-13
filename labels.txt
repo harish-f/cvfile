@@ -1,0 +1,3 @@
+0 Nothing
+1 Human
+2 Dino
